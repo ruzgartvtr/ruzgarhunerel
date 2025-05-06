@@ -1,0 +1,29 @@
+[
+  {
+    "isim": "Revo Uninstaller",
+    "exe_url": "https://download.revouninstaller.com/revosetup.exe",
+    "sessiz_arg": "/silent",
+    "exe_adi": "revosetup.exe",
+    "kisayol_ad": "Revo.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Program Files/Revo Uninstaller"
+  },
+  {
+    "isim": "Google Chrome",
+    "exe_url": "https://dl.google.com/chrome/install/375.126/chrome_installer.exe",
+    "sessiz_arg": "/silent",
+    "exe_adi": "chrome_installer.exe",
+    "kisayol_ad": "Chrome.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Program Files/Google/Chrome/Application"
+  },
+  {
+    "isim": "Discord",
+    "exe_url": "https://dl.discordapp.net/distro/installers/discord-setup.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "discord-setup.exe",
+    "kisayol_ad": "Discord.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Users/%USERNAME%/AppData/Local/Discord"
+  }
+]
