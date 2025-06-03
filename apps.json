@@ -18,5 +18,107 @@
     "baslat": true,
     "kurulu_kontrol": "C:/Program Files/Google/Chrome/Application",
     "logo": "https://download.logo.wine/logo/Google_Chrome/Google_Chrome-Logo.wine.png"
+  },
+  {
+    "isim": "VLC Media Player",
+    "exe_url": "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "vlc-3.0.20-win64.exe",
+    "kisayol_ad": "VLC.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Program Files/VideoLAN/VLC",
+    "logo": "https://cdn.icon-icons.com/icons2/2699/PNG/512/vlc_media_player_logo_icon_169423.png"
+  },
+  {
+    "isim": "WinRAR",
+    "exe_url": "https://www.rarlab.com/rar/winrar-x64-624tr.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "winrar-x64-624tr.exe",
+    "kisayol_ad": "WinRAR.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Program Files/WinRAR",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/WinRAR_Logo.png"
+  },
+  {
+    "isim": "Discord",
+    "exe_url": "https://discord.com/api/download?platform=win",
+    "sessiz_arg": "/S",
+    "exe_adi": "DiscordSetup.exe",
+    "kisayol_ad": "Discord.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Users/%USERNAME%/AppData/Local/Discord",
+    "logo": "https://cdn.icon-icons.com/icons2/2429/PNG/512/discord_logo_icon_147288.png"
+  },
+  {
+    "isim": "7-Zip",
+    "exe_url": "https://www.7-zip.org/a/7z2301-x64.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "7z2301-x64.exe",
+    "kisayol_ad": "7-Zip.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Program Files/7-Zip",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/7ziplogo.svg"
+  }
+]
+[
+  {
+    "isim": "Steam",
+    "exe_url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "SteamSetup.exe",
+    "kisayol_ad": "Steam.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Program Files (x86)/Steam",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"
+  },
+  {
+    "isim": "Visual Studio Code",
+    "exe_url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+    "sessiz_arg": "/silent",
+    "exe_adi": "VSCodeSetup.exe",
+    "kisayol_ad": "VSCode.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Users/%USERNAME%/AppData/Local/Programs/Microsoft VS Code",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+  },
+  {
+    "isim": "OBS Studio",
+    "exe_url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1.2-Full-Installer-x64.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "OBS-Studio-Installer.exe",
+    "kisayol_ad": "OBS Studio.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Program Files/obs-studio",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/OBS_Studio_Logo.svg"
+  },
+  {
+    "isim": "Spotify",
+    "exe_url": "https://download.scdn.co/SpotifySetup.exe",
+    "sessiz_arg": "/silent",
+    "exe_adi": "SpotifySetup.exe",
+    "kisayol_ad": "Spotify.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Users/%USERNAME%/AppData/Roaming/Spotify",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
+  },
+  {
+    "isim": "Notepad++",
+    "exe_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.5/npp.8.6.5.Installer.x64.exe",
+    "sessiz_arg": "/S",
+    "exe_adi": "npp_installer.exe",
+    "kisayol_ad": "Notepad++.lnk",
+    "baslat": false,
+    "kurulu_kontrol": "C:/Program Files/Notepad++",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Notepad++_Logo.svg"
+  },
+  {
+    "isim": "Telegram Desktop",
+    "exe_url": "https://updates.tdesktop.com/tsetup/tsetup.4.18.1.exe",
+    "sessiz_arg": "/silent",
+    "exe_adi": "TelegramSetup.exe",
+    "kisayol_ad": "Telegram.lnk",
+    "baslat": true,
+    "kurulu_kontrol": "C:/Users/%USERNAME%/AppData/Roaming/Telegram Desktop",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
   }
 ]
