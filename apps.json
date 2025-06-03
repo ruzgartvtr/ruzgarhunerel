@@ -58,8 +58,7 @@
     "baslat": false,
     "kurulu_kontrol": "C:/Program Files/7-Zip",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/7ziplogo.svg"
-  }
-]
+  },
   {
     "isim": "Steam",
     "exe_url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
